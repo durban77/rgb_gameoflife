@@ -12,7 +12,9 @@ Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) o
 ## 2. Adjust the source and upload to the Arduino.
 
    🎁 Optionally weatherproof it and make ☀️ power supply for it.
+   For [8*5 shield](https://wiki.keyestudio.com/Ks0163_keyestudio_40_RGB_LED_2812_Pixel_Matrix_Shield), set PIN to 13 and H to 5!
 
 ## 3. Show it and share the joy!
 
   ![Final form of the build.](./final_build.jpg)
+  ![Another example playing the GoL.](./8x5_shield_build.jpg)
